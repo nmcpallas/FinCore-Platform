@@ -91,3 +91,6 @@ docker compose up -d
 - Retry/DLQ/replay/backfill patterns
 - Reconciliation and compensation flows
 - Observability and operability mindset (metrics/tracing/runbooks)
+
+## Resources:
+[Link to google folder with resources](https://drive.google.com/drive/folders/1-NpjlIOOgHzVj-e3GZ7gOYUx_Eab5-AJ?usp=sharing)
