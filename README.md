@@ -2,6 +2,8 @@
 
 FinCore is a production-like fintech platform core that demonstrates how banks and crypto exchanges build high-load, reliable systems where money correctness is the top priority.
 This is not a CRUD pet project — it focuses on correctness, reliability, and operability.
+[Notion link to explore how I build it]([https://example.com](https://www.notion.so/Fintech-pet-project-2ec2cbc0e88b803a9765d17d8eb6b55a?source=copy_link))
+
 
 ## What the system does
 FinCore implements realistic financial workflows on top of a shared Money Core:
